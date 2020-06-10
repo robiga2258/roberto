@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+    <pattern>HI</pattern>
+    <template>Hello, world!</template>
+</category>
+<category>
+    <pattern>Ich suche ein Velo 
+</pattern>
+    <template>Zu dieser Jahreszeit?</template>
+</category>
+<category>
+    <pattern>Es ist Frühling </pattern>
+    <template>Ach ja - aber immer noch kalt
+</template>
+</category>
+</aiml>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Hi bot</pattern>
+    <template>Hello World</template>
+  </category>
+<category>
+    <pattern>Ich suche ein neues Velo</pattern>
+    <template>Was für ein Velo?</template>
+</category>
+
+<category><pattern>Velo</pattern><template><srai>ICH SUCHE EIN NEUES VELO</srai></template></category>
+
+</aiml>
